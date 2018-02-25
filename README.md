@@ -38,4 +38,9 @@ I also send the design to service@elecrow.com and they will come back with a off
 
 
 
-Lets get into PCB making now! The goal is to have a finished PCB to be send to China at 6 pm. 
+Ok finally at 22.40 i manage to make it half parametric. 
+
+![](image-4.png)
+
+
+Lets get into PCB making now! The goal is to have a finished PCB to be send to China.
